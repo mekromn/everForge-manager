@@ -1,7 +1,7 @@
 # EverForge automatic update and repatching design
 
 Date: 2026-10-11 (America/Los_Angeles)
-Status: Proposed for user review; product implementation has not started.
+Status: Approved by the user on 2026-10-11; implementation awaits plan review.
 Repository: https://github.com/mekromn/everForge-manager
 Reviewed base: `da8545c92c94b83e23adf7b573b46b282fa2b062` (Morphe Manager 1.35.0)
 
@@ -215,4 +215,4 @@ Repository paths above are verified against the reviewed base commit. Primary pl
 
 ## Review outcome
 
-This is a proposed architecture, not an implementation or an APK. Review it before writing the detailed implementation plan. No claim is made that mirror adapters, recovery workers, or automatic updates have been built or device-tested.
+The user approved this architecture on 2026-10-11. The [implementation plan](../plans/2026-10-11-everforge-automation.md) carries the next review and execution-method handoff. No claim is made that mirror adapters, recovery workers, or automatic updates have been built or device-tested.
