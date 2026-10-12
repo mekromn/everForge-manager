@@ -360,4 +360,3 @@ Execute tasks sequentially unless the user chooses the subagent workflow. At exe
 The local planning environment has JDK 17 and no discovered Android SDK. At execution, use a suitable JDK 21/SDK 37 environment or the adapted GitHub Actions build. A dependency/download/toolchain failure is not a red test proving behavior; resolve that prerequisite or report the precise blocker before claiming validation.
 
 Primary sources used for pinned additions: [AndroidX Test](https://developer.android.com/jetpack/androidx/releases/test), [jsoup downloads and Android requirements](https://jsoup.org/download), [desugar library changelog](https://github.com/google/desugar_jdk_libs/blob/master/CHANGELOG.md). Patcher interfaces were read from the public [Morphe patcher v1.15.1 source](https://github.com/MorpheApp/morphe-patcher/tree/v1.15.1).
-
